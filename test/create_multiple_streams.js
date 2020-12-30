@@ -29,5 +29,3 @@ tape.test('createMultipleStreams', function (tt) {
         tt.equal(th._results.fail,  0, "harness test didn't fail");
     });
 });
-
-
